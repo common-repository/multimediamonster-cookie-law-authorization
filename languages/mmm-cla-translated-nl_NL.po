@@ -1,0 +1,659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cookie law authorization v1.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-09-13 07:54+0200\n"
+"Last-Translator: Renske van der Heijden <renske@multimediamonster.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: nl_NL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-actions.php:37
+msgid "Please select one or more IP-adresses."
+msgstr "Selecteer aub één of meerder IP adressen."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-actions.php:27
+#: classes/class-mmm-cla-admin-actions.php:36
+msgid "You are not authorized to perform this action."
+msgstr "Je hebt geen rechten om deze handeling uit te voeren."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:112
+msgid "January"
+msgstr "januari"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:113
+msgid "Februari"
+msgstr "februari"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:114
+msgid "March"
+msgstr "maart"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:115
+msgid "April"
+msgstr "april"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:116
+msgid "May"
+msgstr "mei"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:117
+msgid "June"
+msgstr "juni"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:118
+msgid "July"
+msgstr "juli"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:119
+msgid "August"
+msgstr "augustus"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:120
+msgid "September"
+msgstr "september"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:121
+msgid "October"
+msgstr "oktober"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:122
+msgid "November"
+msgstr "november"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:123
+msgid "December"
+msgstr "december"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-menu-items.php:53
+#: classes/class-mmm-cla-settings.php:13
+msgid "Settings"
+msgstr "Instellingen"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-menu-items.php:33
+msgid "Authorized"
+msgstr "Toegestemd"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-copyright.php:15
+msgid "Hi there!"
+msgstr "Hoi!"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-copyright.php:25
+#, php-format
+msgid "How nice you started using my plugin! I really have no terms or conditions of using it. You can just install it. You don&#8217;t have to mention anything or link to my page or other weird stuff.<br /><br />If you encounter something where your mind goes &#8220;ehmmm that&#8217;s not right&#8221; (I can&#8217;t imagine it happening but you never know) please contact me. You can <a href='mailto:%s'>e-mail me</a> or send me a message through the contact form on <a href='http://%s' target='_blank'>my website</a>.<br /><br /><b>With love and cookies %s</b><br />(%s)<br /><a href='http://%s' target='_blank'>%s</a>"
+msgstr "Wat leuk dat je mijn plugin bent gaan gebruiken! Ik heb geen voorwaarden, eisen of verwachtingen van jou zodat je deze plugin mag gaan gebruiken. Je kunt hem gewoon installeren. Je hoeft me niet op je website te benoemen, een link te plaatsen of andere rare dingen.<br /><br />Mocht je nou iets tegenkomen waarvan je denkt &#8220;ehmmm dat klopt niet helemaal&#8221; (ik kan me niet voorstellen dat dit gebeurt maar je weet maar nooit) neem dan even contact met me op. Je kunt me een <a href='mailto:%s'>mailtje</a> sturen of een berichtje achterlaten via het contactformulier op <a href='http://%s' target='_blank'>mijn website</a>.<br /><br /><b>Met liefde en koekjes %s</b><br />(%s)<br /><a href='http://%s' target='_blank'>%s</a>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-actions.php:35
+msgid "The IP-addresses are succesfully deleted."
+msgstr "Het IP-adres is succesvol verwijderd."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:84
+msgid "Really delete this IP address? (Irreversible)"
+msgstr "Weet je zeker dat je dit IP-adres wilt verwijderen? (onomkeerbaar)"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:71
+msgid "ON"
+msgstr "AAN"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:72
+msgid "OFF"
+msgstr "UIT"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:232
+msgid "delete"
+msgstr "verwijder"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:272
+msgid "Delete checked"
+msgstr "Verwijder geselecteerd"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:28 classes/class-mmm-cla-settings.php:32
+msgid "General"
+msgstr "Algemeen"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:33
+msgid "Cookie levels"
+msgstr "Cookie niveau's"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:34
+msgid "Texts"
+msgstr "Teksten"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-actions.php:26
+msgid "The settings have been succesfully updated."
+msgstr "De instellingen zijn succesvol opgeslagen."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-actions.php:28
+msgid "You did not fill in all the required fields."
+msgstr "Je hebt niet alle verplichte velden ingevuld."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:86
+msgid "You have reached the maximum number of levels to add."
+msgstr "Het maximale aantal niveau's is bereikt."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:89
+#: classes/class-mmm-cla-settings.php:715
+msgid "remove"
+msgstr "Verwijder"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:85
+#: classes/class-mmm-cla-admin-pages-tabs.php:132
+#: classes/class-mmm-cla-admin-pages-tabs.php:277
+msgid "No info available."
+msgstr "Geen informatie beschikbaar."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:97
+msgid "Save settings"
+msgstr "Instellingen opslaan"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:98
+msgid "Reset settings"
+msgstr "Herstel naar standaard instellingen"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:99
+msgid "<em>*</em> <span class=\"small\">required</span>"
+msgstr "<em>*</em> <span class=\"small\">verplicht</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:295
+#: classes/class-mmm-cla-settings.php:37 classes/class-mmm-cla-settings.php:60
+#: classes/class-mmm-cla-settings.php:91 classes/class-mmm-cla-settings.php:172
+#: classes/class-mmm-cla-settings.php:254
+#: classes/class-mmm-cla-settings.php:363
+msgid "Help"
+msgstr "Help"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:62
+msgid "You just need to tell me: put it on or off? Nothing more. After that you can adjust settings, content and layout as you wish."
+msgstr "Je hoeft me alleen maar te vertellen: aan of uit? Meer niet. Daarna kunt je instellingen, teksten en opmaak aanpassen."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:66
+msgid "ON or OFF?<br /><span class=\"small\">Are you kiddin? No I am not ...</span>"
+msgstr "AAN or UIT?<br /><span class=\"small\">Je maakt een grapje? Nope ...</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:93
+msgid "<div class=\"hidden_ajax\"></div>Basicly there are 3 levels, but you can add more or remove the existing levels. Click <a href=\"javascript:void(0);\" class=\"ajax duplicate\" title=\"levels1 duplicate\">here</a> to add more."
+msgstr "<div class=\"hidden_ajax\"></div>In de basis zijn er 3 niveau's, maar je kunt er meer toevoegen of bestaande verwijderen. Klik <a href=\"javascript:void(0);\" class=\"ajax duplicate\" title=\"levels1 duplicate\">hier</a> om niveau's toe te voegen."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:97
+msgid "Levels"
+msgstr "Niveau's"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:106
+#: classes/class-mmm-cla-settings.php:125
+#: classes/class-mmm-cla-settings.php:144
+msgid "Level title"
+msgstr "Niveau titel"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:112
+#: classes/class-mmm-cla-settings.php:131
+#: classes/class-mmm-cla-settings.php:150
+msgid "Level do&#8217;s"
+msgstr "Niveau website zal wel:"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:117
+#: classes/class-mmm-cla-settings.php:136
+#: classes/class-mmm-cla-settings.php:155
+msgid "Level dont&#8217;s"
+msgstr "Niveau website zal niet:"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:174
+msgid "If you are not sure which texts belong to which elements (please first check the small text in front of the inputs) look on the &#8217;help&#8217; tab."
+msgstr "Als je niet zeker weet welke tekst bij wel element hoort (lees eerst de kleine tekst bij de velden) kijk dan op de &#8217;help&#8217; tab voor meer informatie."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:307
+#: classes/class-mmm-cla-settings.php:178
+msgid "Title small block"
+msgstr "Titel kleine blok"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:308
+#: classes/class-mmm-cla-settings.php:184
+msgid "Text small block"
+msgstr "Tekst kleine blok"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:311
+#: classes/class-mmm-cla-settings.php:190
+msgid "Button small block"
+msgstr "Knop kleine blok"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:196
+msgid "Link small block<br /><span class=\"small\">if left blank there will be no more information</span>"
+msgstr "Link kleine blok<br /><span class=\"small\">bij niet invullen zal er geen meer informatie en opties getoond worden</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:322
+#: classes/class-mmm-cla-settings.php:203
+msgid "Title large block"
+msgstr "Titel grote blok"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:323
+#: classes/class-mmm-cla-settings.php:209
+msgid "Text large block"
+msgstr "Tekst grote blok"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:325
+#: classes/class-mmm-cla-settings.php:215
+msgid "Title large wanted"
+msgstr "Titel grote blok gewenst"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:331
+#: classes/class-mmm-cla-settings.php:221
+msgid "Title large recommended"
+msgstr "Titel grote blok aanbevolen"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:344
+#: classes/class-mmm-cla-settings.php:227
+msgid "Title large do&#8217;s"
+msgstr "Titel grote blok de website zal wel"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:348
+#: classes/class-mmm-cla-settings.php:233
+msgid "Title large dont&#8217;s"
+msgstr "Titel grote blok de website zal niet"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:355
+#: classes/class-mmm-cla-settings.php:239
+msgid "Button large block"
+msgstr "Knop grote blok"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:265
+#: classes/class-mmm-cla-settings.php:276
+msgid "yes"
+msgstr "ja"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:266
+#: classes/class-mmm-cla-settings.php:277
+msgid "no"
+msgstr "nee"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:287
+msgid "left"
+msgstr "links"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:288
+msgid "right"
+msgstr "rechts"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:298
+msgid "top"
+msgstr "boven"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:299
+msgid "bottom"
+msgstr "onder"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:457
+msgid "Reccomended"
+msgstr "Aanbevolen"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:458
+msgid "Placing necessary cookies (remembering basic settings)<br />Keep track of statistics<br />Allow pages to share through social media<br />Use visitor information for relevant advertising"
+msgstr "Noodzakelijke cookies plaatsen (basisinstellingen onthouden)<br />Statistieken bijhouden<br />Toestaan pagina’s te delen middels social media<br />Bezoekersinformatie gebruiken voor relevantere advertenties"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:460
+msgid "Functional"
+msgstr "Functioneel"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:461
+msgid "Placing necessary cookies (remembering basic settings)<br />Keep track of statistics<br />Allow pages to share through social media"
+msgstr "Noodzakelijke cookies plaatsen (basisinstellingen onthouden)<br />Statistieken bijhouden<br />Toestaan pagina’s te delen middels social media"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:462
+msgid "Use visitor information for relevant advertising"
+msgstr "Bezoekersinformatie gebruiken voor relevantere advertenties"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:463
+msgid "Necessary"
+msgstr "Noodzakelijk"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:464
+msgid "Placing necessary cookies (remembering basic settings)"
+msgstr "Noodzakelijke cookies plaatsen (basisinstellingen onthouden)"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:465
+msgid "Keep track of statistics<br />Allow pages to share through social media<br />Use visitor information for relevant advertising"
+msgstr "Statistieken bijhouden<br />Toestaan pagina’s te delen middels social media<br />Bezoekersinformatie gebruiken voor relevantere advertenties"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:470
+#: classes/class-mmm-cla-settings.php:474
+msgid "Cookie settings"
+msgstr "Cookie instellingen"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:471
+msgid "We use cookies to ensure you get the best experience on our website."
+msgstr "We maken gebruik van cookies om je te verzekeren van een optimaal werkende website."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:472
+msgid "Accept cookies"
+msgstr "Accepteer cookies"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:473
+msgid "Information"
+msgstr "Informatie"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:475
+msgid ""
+"Most websites you visit will use cookies in order to improve your user experience by enabling that website to ‘remember’ you.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<br /><br />Cookies do lots of different jobs, like letting you navigate between pages efficiently, storing your preferences, and generally improving your experience of a website. Cookies make the interaction between you and the website faster and easier. If a website doesn’t use cookies, it will think you are a new visitor every time you move to a new page on the site – for example, when you enter your login details and move to another page it won’t recognise you and it won’t be able to keep you logged in.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<br /><br />Some websites will also use cookies to enable them to target their advertising or marketing messages based for example, on your location and/or browsing habits.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<br /><br />Cookies may be set by the website you are visiting (‘first party cookies’) or they may be set by other websites who run content on the page you are viewing (‘third party cookies’).\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<br /><br />What is in a cookie?\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<br /><br />A cookie is a simple text file that is stored on your computer or mobile device by a website’s server and only that server will be able to retrieve or read the contents of that cookie. Each cookie is unique to your web browser. It will contain some anonymous information such as a unique identifier and the site name and some digits and numbers. It allows a website to remember things like your preferences or what’s in your shopping basket.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<br /><br />What to do if you don’t want cookies to be set\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<br /><br />Some people find the idea of a website storing information on their computer or mobile device a bit intrusive, particularly when this information is stored and used by a third party without them knowing. Although this is generally quite harmless you may not, for example, want to see advertising that has been targeted to your interests. If you prefer, it is possible to block some or all cookies, or even to delete cookies that have already been set; but you need to be aware that you might lose some functions of that website."
+msgstr "Op deze website worden cookies gebruikt. Een cookie is een klein tekstbestand dat op je pc wordt opgeslagen. Dit bestand houdt gegevens bij van door jou bezochte pagina’s en bevat een aantal gegevens over je bezoek. Ook worden cookies gebruikt voor functionaliteiten op deze website, zoals te onthouden dat je hier al eerder bent geweest (dan hoef je niet steeds je gebruikersgegevens in te voeren), je voorkeuren te onthouden voor de volgende keer, de mogelijkheid om pagina’s te delen binnen social media (Google+, Facebook, Twitter, etc.), enz. De cookies worden lokaal op je computer opgeslagen en bevatten alleen geanonimiseerde informatie."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:483
+msgid "Wanted"
+msgstr "Gewenste"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:484
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:485
+msgid "This website will:"
+msgstr "De website zal wel:"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:486
+msgid "This website won&#8217;t:"
+msgstr "De website zal niet:"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:487
+msgid "Save"
+msgstr "Opslaan"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:85
+msgid "Are you sure you want to reset? The widget will be disabled and all configuration and layout settings will be permanently deleted. (Irreversible)"
+msgstr "Weet je zeker dat je de standaard instellingen wilt terugzetten? De widget word uitgezet en configuratie en opmaak instellingen worden definitief verwijderd uit de database. (onomkeerbaar)"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:312
+msgid "Link small block"
+msgstr "Kleine blok meer informatie"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:334
+msgid "Level title large"
+msgstr "Grote blok level titel"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:345
+msgid "Text large do&#8217;s"
+msgstr "Grote blok de website zal wel"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:349
+msgid "Text large dont&#8217;s"
+msgstr "Grote blok de website zal niet"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:35
+msgid "Layout small"
+msgstr "Opmaak kleine"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:36
+msgid "Layout large"
+msgstr "Opmaak grote"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:256
+msgid "Below you can adjust some basic layout settings for the small block on the website. But ofcourse there is more you can do about making the apearance fit more with you own website. You can do this by styling the elements in your theme&#8217;s CSS file. On the &#8217;help&#8217; tab on this page I have put an example on what elements are used. Good luck! You can do it!"
+msgstr "Hieronder kun je wat basis instellingen aanpassen voor het kleine blok op de website. Natuurlijk kun je ook meer aanpassen en deze plugin meer bij het uiterlijk van je eigen website laten passen. Dit kun je doen door bepaalde elementen in je stylesheet van je thema op te nemen. Op de &#8217;help&#8217; tab op de pagina staat een voorbeeld code van welke elementen er gebruikt worden. Succes! Je kan het!"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:260
+msgid "Floating"
+msgstr "Zwevend"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:271
+msgid "Draggable"
+msgstr "Sleepbaar"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:282
+msgid "Position horizontal"
+msgstr "Positie horizontaal"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:293
+msgid "Position vertical"
+msgstr "Positie verticaal"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:304
+msgid "Width<br /><span class=\"small\">in pixels, if left empty it will be 100%<br />(fe \"350\", \"350px\", \"50%\")</span>"
+msgstr "Breedte<br /><span class=\"small\">in pixels, bij leeg word het 100%<br />(bv \"350\", \"350px\", \"50%\")</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:309
+#: classes/class-mmm-cla-settings.php:384
+msgid "Border radius<br /><span class=\"small\">in pixels, if left empty it will be 0<br />(fe \"10\", \"10px\", \"10px 10px 10px 10px\")</span>"
+msgstr "Ronde hoeken<br /><span class=\"small\">in pixels, bij leeg word het 0<br />(bv \"10\", \"10px\", \"10px 10px 10px 10px\")</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:314
+#: classes/class-mmm-cla-settings.php:389
+msgid "Drop shadow<br /><span class=\"small\">in pixels, if left empty it will be 0<br />(fe \"10\", \"10px\", \"10px 10px 10px 10px\")</span>"
+msgstr "Schaduw<br /><span class=\"small\">in pixels, bij leeg word het 0<br />(bv \"10\", \"10px\", \"10px 10px 10px 10px\")</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:319
+#: classes/class-mmm-cla-settings.php:394
+msgid "Backgroundcolor (outer)<br /><span class=\"small\">in hex #, if left empty it will be #f4f4f4<br />(fe #000)</span>"
+msgstr "Achtergrondkleur (buitenste)<br /><span class=\"small\">in hex #, bij leeg word het #f4f4f4<br />(bv #000)</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:324
+#: classes/class-mmm-cla-settings.php:399
+msgid "Backgroundopacity (outer)<br /><span class=\"small\">in %, if left empty it will be 100%<br />(fe 50)</span>"
+msgstr "Achtergrond transparantie (buitenste)<br /><span class=\"small\">in %, bij leeg word het 100%<br />(bv 50)</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:329
+#: classes/class-mmm-cla-settings.php:404
+msgid "Margin (outer)<br /><span class=\"small\">in pixels, if left empty it will be 0<br />(fe \"25\", \"25px\", \"25px 25px 25px 25px\")</span>"
+msgstr "Marge (buitenste)<br /><span class=\"small\">in pixels, bij leeg word het 0<br />(bv \"25\", \"25px\", \"25px 25px 25px 25px\")</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:334
+#: classes/class-mmm-cla-settings.php:409
+msgid "Padding (outer)<br /><span class=\"small\">in pixels, if left empty it will be 0<br />(fe \"25\", \"25px\", \"25px 25px 25px 25px\")</span>"
+msgstr "Padding (buitenste)<br /><span class=\"small\">in pixels, bij leeg word het 0<br />(bv \"25\", \"25px\", \"25px 25px 25px 25px\")</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:339
+#: classes/class-mmm-cla-settings.php:414
+msgid "Backgroundcolor (inner)<br /><span class=\"small\">in hex #, if left empty it will be #fff<br />(fe #000)</span>"
+msgstr "Achtergrondkleur (binnstenste)<br /><span class=\"small\">in hex #, bij leeg word het #fff<br />(fe #000)</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:344
+#: classes/class-mmm-cla-settings.php:419
+msgid "Backgroundopacity (inner)<br /><span class=\"small\">in %, if left empty it will be 100%<br />(fe 50)</span>"
+msgstr "Achtergrond transparantie (binnenste)<br /><span class=\"small\">in %, bij leeg word het 100%<br />(bv 50)</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:349
+#: classes/class-mmm-cla-settings.php:424
+msgid "Margin (inner)<br /><span class=\"small\">in pixels, if left empty it will be 0<br />(fe \"10\", \"10px\", \"10px 10px 10px 10px\")</span>"
+msgstr "Marge (binnenste)<br /><span class=\"small\">in pixels, bij leeg word het 0<br />(bv \"10\", \"10px\", \"10px 10px 10px 10px\")</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:354
+#: classes/class-mmm-cla-settings.php:429
+msgid "Padding (inner)<br /><span class=\"small\">in pixels, if left empty it will be 0<br />(fe \"25\", \"25px\", \"25px 25px 25px 25px\")</span>"
+msgstr "Padding (binnenste)<br /><span class=\"small\">in pixels, bij leeg word het 0<br />(fe \"25\", \"25px\", \"25px 25px 25px 25px\")</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:365
+msgid "Below you can adjust some basic layout settings for the large block on the website. But ofcourse there is more you can do about making the apearance fit more with you own website. You can do this by styling the elements in your theme&#8217;s CSS file. On the &#8217;help&#8217; tab on this page I have put an example on what elements are used. Good luck! You can do it!"
+msgstr "Hieronder kun je wat basis instellingen aanpassen voor het grote blok op de website. Natuurlijk kun je ook meer aanpassen en deze plugin meer bij het uiterlijk van je eigen website laten passen. Dit kun je doen door bepaalde elementen in je stylesheet van je thema op te nemen. Op de &#8217;help&#8217; tab op de pagina staat een voorbeeld code van welke elementen er gebruikt worden. Succes! Je kan het!"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:369
+msgid "Width<br /><span class=\"small\">in pixels, if left empty it will be 100%<br />(fe 250, 250px, 50%)</span>"
+msgstr "Breedte<br /><span class=\"small\">in pixels, bij leeg word het 100%<br />(bv 250, 250px, 50%)</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:374
+msgid "Backgroundcolor (overlay)<br /><span class=\"small\">in hex #, if left empty it will be #000<br />(fe #000)</span>"
+msgstr "Achtergrondkleur (overlay)<br /><span class=\"small\">in hex #, bij leeg word het #000<br />(fe #000)</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:379
+msgid "Backgroundopacity (overlay)<br /><span class=\"small\">in %, if left empty it will be 80%<br />(fe 50)</span>"
+msgstr "Achtergrond transparantie (overlay)<br /><span class=\"small\">in %, bij leeg word het 80%<br />(bv 50)</span>"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:301
+#, php-format
+msgid "With this plugin (and when you put it on) there wil be 2 elements placed on the website. One small block with basic information and one large block with extended information. The large block will be shown as a semi-fancybox when you click on the more information link. When you leave the link text blank this block will not be inserted.<br /><br /><img src='%s/images/admin/help1.jpg' /><br /><br />Besides configuration on the tabs you can also adjust other things true your them stylesheet. Below you will find a piece of code in wich I will try to make clear to you how the elements are placed.<br /><br />"
+msgstr "Met deze plugin (en wanneer je hem dus AAN zet) worden er 2 elementen op de website geplaats. Een klein blokje met basis informatie en een groot blok met uitgebreidere informatie. Dit grote blok word getoond als semi-fancybox wanneer je op de meer informatie link klikt. Wanneer je de link naar die informatie in het grote blok leeg laat (de text) word dit blok niet getoond.<br /><br /><img src='%s/images/admin/help1.jpg' /><br /><br />Naast de instellingen op de tabbladen kun je natuurlijk ook nog andere zaken aanpassen via je thema stylesheet. Hieronder staat een stukje code waarbij ik je probeer duidelijk te maken hoe de elementen structureel in elkaar steken.<br /><br />"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:87
+#: classes/class-mmm-cla-admin-pages-tabs.php:158
+msgid "slide up"
+msgstr "inklappen"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:88
+#: classes/class-mmm-cla-settings.php:710
+msgid "slide down"
+msgstr "uitklappen"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages-tabs.php:157
+msgid "Google maps"
+msgstr "Google maps"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:75
+msgid "ipaddress"
+msgstr "IP adres"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:76
+msgid "date_time"
+msgstr "datum/tijd"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-functions.php:77
+msgid "level"
+msgstr "niveau"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-menu-items.php:8
+msgid "IP addresses"
+msgstr "IP adressen"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages.php:55
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages.php:56
+msgid "&raquo;"
+msgstr "&laquo;"
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-admin-pages.php:77
+#, php-format
+msgid "We have found a total of %s ip-adresses."
+msgstr "We hebben %s ip-adressen gevonden."
+
+# @ mmm-cla-translated
+#: classes/class-mmm-cla-settings.php:77
+msgid "How long do you want records to be kepped?<br /><span class=\"small\">To make sure your database does not get filled with too many records tell after how many days the record should be deleted. Zero (0) or empty does nothing. So it keeps them all.</span>"
+msgstr "Hoe lang wil je de IP-adressen bewaren?<br /><span class=\"small\">Om te voorkomen dat je database vervuilt raakt met extreem veel IP-adressen kun je hier aangeven hoeveel dagen je de IP-adressen wilt bewaren. Nul (0) of leeg doet niets. Dan bewaar je ze dus allemaal.</span>"

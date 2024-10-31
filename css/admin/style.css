@@ -1,0 +1,309 @@
+
+		/*****************************************************************************************/
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*              				 If cats looked like frogs              				 */
+		/*				  we'd realize what nasty, cruel little bastards they are.   	 	     */
+		/*								      ... STYLE ...    	 	                  			 */
+		/*							  That's what people remember.   	 	                     */
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*          Please keep this stylesheet neat and clean so we can all be happy  		     */
+		/*                                                                            			 */
+		/*      				 Copyright (c) 2013 | All rights reserved  		    			 */
+		/*      	 			MultiMediaMonster | Renske van der Heijden  			 		 */
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*****************************************************************************************/
+		
+			.html-active .mce-tinymce
+							{
+								visibility:						hidden !important;
+								display:						none !important; 
+							}
+			.html-active textarea
+							{
+								visibility:						visible !important;
+								display:						block !important; 
+							}		
+			a.toplevel_page_multimediamonster-cookie-law-authorization-settings .wp-menu-image.dashicons-before
+							{
+								display:						table-cell;
+							}
+			a.toplevel_page_multimediamonster-cookie-law-authorization-settings .wp-menu-name
+							{
+								display:						table-cell;
+							}
+			.multimediamonster-cookie-law-authorization .div-to-table
+							{
+								display:						table;
+								width:							100%;
+							}
+			.multimediamonster-cookie-law-authorization .div-to-table .div-to-row
+							{
+								display:						table-row;
+							}
+			.multimediamonster-cookie-law-authorization .div-to-table .div-to-row .div-to-cell
+							{
+								display:						table-cell;
+								padding:						5px 0 5px 0;
+								vertical-align:					top;
+							}
+			.multimediamonster-cookie-law-authorization .div-to-table .div-to-row .div-to-cell:first-child
+							{
+								padding:						5px 20px 5px 0;
+							}
+			.tablenav .tablenav-pages
+							{
+								line-height:					normal;
+								margin:							0 0 20px 0 !important;
+							}
+			/* tabs links */
+			.multimediamonster-cookie-law-authorization a:focus
+							{
+								box-shadow:						0 0 0 0 #000,0 0 0 0 rgba(255,255,255,0) !important;
+							}
+			/* tabs content */
+			.multimediamonster-cookie-law-authorization .form-table
+							{
+								background:						#fff;
+								padding:						0;
+								margin:							5px 0 5px 0;
+								border: 						1px solid #ccc;
+							}
+			.multimediamonster-cookie-law-authorization .form-table td
+							{
+								padding:						20px;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content
+							{
+								display:						none;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content.nav-tab-active-content
+							{
+								display:						block;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content img
+							{
+								max-width:						100%;
+								height:							auto;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content h3
+							{
+								margin:							0;
+								padding:						0;
+							}
+			/* fieldset and inputs */
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content fieldset
+							{
+								padding-top:					10px;
+								padding-bottom:					10px;
+								border-bottom: 					1px solid #e5e5e5;
+							}		
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content fieldset:first-child
+							{
+								padding-top:					0;
+							}						
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content fieldset:last-child
+							{
+								border-bottom: 					0;
+								margin-bottom:					0;
+								padding-bottom:					0;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content fieldset label
+							{
+								font-weight:					bold;
+								margin:							0 !important;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content label,
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content div.input
+							{
+								display:						table-cell;
+								vertical-align:					top;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content label
+							{
+								width:							275px;
+							}
+			.multimediamonster-cookie-law-authorization .wp-list-table.widefat
+							{
+								margin:							5px 0 5px 0;
+							}
+			.multimediamonster-cookie-law-authorization .map-canvas-main-toggler h3
+							{
+								padding:						10px;
+								background-color:				#FFF;
+								border:							1px solid #ccc;
+								margin:							0;
+							}
+			.multimediamonster-cookie-law-authorization .map-canvas-main-toggler h3 a
+							{
+								font-size: 						11px;
+								margin-left: 					10px;
+							}
+			.multimediamonster-cookie-law-authorization .container.googlemaps
+							{
+								border:							1px solid #ccc;
+								border-top:						0;
+							}
+			.multimediamonster-cookie-law-authorization .map-canvas-main
+							{
+								width:							100%;
+								height: 						350px;
+							}
+			.multimediamonster-cookie-law-authorization .map-canvas-main-info
+							{
+								display:						none;
+							}
+			.multimediamonster-cookie-law-authorization em
+							{
+								color:							#F00;
+								display:						inline;
+							}
+			.multimediamonster-cookie-law-authorization .small
+							{
+								font-size:						11px;
+								color:							#999;
+								font-weight:					normal;
+								display:						inline;
+							}
+			.multimediamonster-cookie-law-authorization form .button-secondary
+							{
+								float:							right;
+							}
+			/* textareas and help wider */
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content label[for='text']
+							{
+								vertical-align:					middle;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content label[for='help'],
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content div.input.help,
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content label[for='textarea'],
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content div.input.textarea,
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content label[for='levels'],
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content div.input.levels
+							{
+								display:						block;
+								vertical-align:					top;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content label[for='help'],
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content label[for='textarea'],
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content label[for='levels']
+							{
+								width:							auto;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content fieldset .input.textarea
+							{
+								margin-top:						-22px;
+							}
+			/* levels */
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content .input.levels .input.levels
+							{
+								margin-bottom:					5px;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content .input.levels .input.levels:last-child
+							{
+								margin-bottom:					0;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content .input.levels .input.levels b
+							{
+								background-color:				#e4e4e4;
+								border: 						1px solid #ccc;
+								display:						block;
+								padding:						10px;
+								text-align:						center;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content .input.levels .input.levels .container
+							{
+								background-color:				#f1f1f1;
+								border: 						1px solid #ccc;
+								border-top:						0;
+								display:						block;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content .input.levels .input.levels .container fieldset
+							{
+								padding:						10px;
+							}
+			.multimediamonster-cookie-law-authorization .nav-tab-wrapper-content .nav-tab-content fieldset .levels div.duplicate b a
+							{
+								font-size:						11px;
+								margin-left:					10px;
+							}
+			/* code container */
+			.multimediamonster-cookie-law-authorization div.code-container
+							{
+								border:							1px solid #b4d333;
+								padding:						0 3px 0 0;
+								margin:							0 0 10px 0;
+							}
+			.multimediamonster-cookie-law-authorization div.code
+							{
+								display:						table;
+								width:							100%;
+							}
+			.multimediamonster-cookie-law-authorization div.code .linenum,
+			.multimediamonster-cookie-law-authorization div.code .linetext
+							{
+								display:						table-cell;
+								vertical-align:					top;
+								font-family:					Courier New, Courier !important;
+								font-size:						11px !important;
+								line-height:					20px !important;
+								margin:							0;
+								padding:						0;
+								border:							3px solid #fff;
+							}
+			.multimediamonster-cookie-law-authorization div.code .linenum
+							{
+								width:							20px; 
+								text-align:						right;
+							}
+			.multimediamonster-cookie-law-authorization div.code .linenum .inner
+							{
+								background:						#CCC;
+								padding:						5px;
+							}
+			.multimediamonster-cookie-law-authorization div.code .linetext
+							{
+								text-align:						left;
+								padding:						0;
+								overflow-x:						scroll;
+								white-space: 					nowrap;
+								background: 					rgba(0,0,0,.07);
+							}
+			.multimediamonster-cookie-law-authorization div.code .linetext code    
+							{
+								display:						block;
+								background: 					rgba(0,0,0,0);
+								padding:						5px;
+								width:							0;
+							}
+			.multimediamonster-cookie-law-authorization div.code .linetext code .html
+							{
+								color:							#009;
+							}
+			.multimediamonster-cookie-law-authorization div.code .linetext code .black
+							{
+								color:							#000;
+							}
+			.multimediamonster-cookie-law-authorization div.code .linetext code .orange,
+			.multimediamonster-cookie-law-authorization div.code .linetext code .comment
+							{
+								color:							#F90;
+							}
+			.multimediamonster-cookie-law-authorization div.code .linetext code .lightblue
+							{
+								color:							#00F;
+							}
+			.multimediamonster-cookie-law-authorization div.code .linetext code .green
+							{
+								color:							#006600;
+							}
+			.multimediamonster-cookie-law-authorization div.code .linetext code .pink
+							{
+								color:							#ff00ff;
+							}
+			.multimediamonster-cookie-law-authorization div.code .linetext code .default
+							{
+								color:							#ff3a00;
+							}

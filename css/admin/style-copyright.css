@@ -1,0 +1,81 @@
+
+		/*****************************************************************************************/
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*              				 If cats looked like frogs              				 */
+		/*				  we'd realize what nasty, cruel little bastards they are.   	 	     */
+		/*								      ... STYLE ...    	 	                  			 */
+		/*							  That's what people remember.   	 	                     */
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*          Please keep this stylesheet neat and clean so we can all be happy  		     */
+		/*                                                                            			 */
+		/*      				 Copyright (c) 2013 | All rights reserved  		    			 */
+		/*      	 			MultiMediaMonster | Renske van der Heijden  			 		 */
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*****************************************************************************************/
+			
+			/* copyright as tab */
+			.div-to-cell.mmm-copyright
+							{
+								width:							300px;
+							}
+			.div-to-cell.mmm-copyright .copyright-container
+							{
+								-moz-box-shadow: 				0 0 5px 0 rgba(0,0,0,0.3);
+								-webkit-box-shadow: 			0 0 5px 0 rgba(0,0,0,0.3);
+								box-shadow: 					0 0 5px 0 rgba(0,0,0,0.3);
+								border-radius:					0;
+								-moz-border-radius: 			0;
+								-webkit-border-radius: 			0;
+								-khtml-border-radius:	 		0;								
+								background: 					#f1f1f1;
+								padding:						10px;
+							}
+			.div-to-cell.mmm-copyright .copyright-container .copyright-content
+							{
+								border: 						1px solid #ccc;
+								border-radius:					0;
+								-moz-border-radius: 			0;
+								-webkit-border-radius: 			0;
+								-khtml-border-radius:	 		0;								
+								background: 					#fff;
+								padding:						20px 20px 150px 20px;
+								background-image:				url(../../images/admin/copyright-bg.png);
+								background-repeat:				no-repeat;
+								background-position:			center bottom;
+								font-size: 						11px;
+								text-align:						justify;
+							}
+			.div-to-cell.mmm-copyright .copyright-container .copyright-content h4
+							{
+								display: 						block;
+								text-align:						center;
+								padding:						12px;
+								margin: 						-21px -21px 20px -21px;
+								color: 							#fff;
+								border:							1px solid #899945;
+								
+								background: 					#b4d333; 
+								background: 					-moz-linear-gradient(top,  #b4d333 30%, #899945 70%); 
+								background: 					-webkit-gradient(linear, left top, left bottom, color-stop(30%,#b4d333), color-stop(70%,#899945)); 
+								background: 					-webkit-linear-gradient(top,  #b4d333 30%,#899945 70%); 
+								background: 					-o-linear-gradient(top,  #b4d333 30%,#899945 70%); 
+								background: 					-ms-linear-gradient(top,  #b4d333 30%,#899945 70%); 
+								background: 					linear-gradient(to bottom,  #b4d333 30%,#899945 70%); 
+								filter: 						progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4d333', endColorstr='#899945',GradientType=0 ); 
+
+								border-radius:					0 0 0 0;
+								-moz-border-radius: 			0 0 0 0;
+								-webkit-border-radius: 			0 0 0 0;
+								-khtml-border-radius:	 		0 0 0 0;
+								font-size: 						16px;
+								font-weight:					normal;
+							}
+			.div-to-cell.mmm-copyright .copyright-container .copyright-content img.logo
+							{
+								max-width:						248px;
+								height:							auto;
+								margin:							20px 0 0 0;
+							}

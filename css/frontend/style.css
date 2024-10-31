@@ -1,0 +1,172 @@
+
+		/*****************************************************************************************/
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*              				 If cats looked like frogs              				 */
+		/*				  we'd realize what nasty, cruel little bastards they are.   	 	     */
+		/*								      ... STYLE ...    	 	                  			 */
+		/*							  That's what people remember.   	 	                     */
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*          Please keep this stylesheet neat and clean so we can all be happy  		     */
+		/*                                                                            			 */
+		/*      				 Copyright (c) 2013 | All rights reserved  		    			 */
+		/*      	 			MultiMediaMonster | Renske van der Heijden  				     */
+		/*                                                                            			 */
+		/*                                                                            			 */
+		/*****************************************************************************************/
+		
+		/* //////////////////////////////////////////////////////////////////////////////////////*/
+		/* 
+		/*  COOKIE TOOL
+		/* 
+		/* //////////////////////////////////////////////////////////////////////////////////////*/
+			
+			.cookie-tool-container h1,
+			.cookie-tool-container h2
+							{
+								margin-bottom:					10px;
+							}
+			.cookie-tool-container .options-do h3,
+			.cookie-tool-container .options-dont h3
+							{
+								background-image:				url(../../images/frontend/cookie-tool-do.png);
+								background-repeat:				no-repeat;
+								background-position:			0 3px;
+								padding: 						0 0 0 20px;
+								margin-bottom:					10px;
+								margin-top:						10px;
+							}
+			.cookie-tool-container .options-do h3	
+							{
+								background-position:			0 -21px;
+							}
+			/* customized divs small */
+			.cookie-tool-container.small		
+							{
+								z-index: 						1000;
+								text-align:						left;
+							}
+			.cookie-tool-container.small.draggable
+							{								
+								cursor:							move;
+							}
+			.cookie-tool-container.small a		
+							{
+								float:							right;
+								margin-top:						7px;
+							}
+			.cookie-tool-container.small input[type="button"]
+							{
+							}
+			/* customized divs large */
+			#cookie-tool-container-large		
+							{
+								position:						absolute;
+								top:							0;
+								left:							0;
+								width:							100%;
+								height:							100%;
+								display: 						none;
+							}
+			.cookie-tool-container-large-overlay
+							{
+								position:						fixed;
+								z-index: 						1001;
+								width:							100%;
+								height:							100%;
+							}
+			.cookie-tool-container-large-overlay-centralizing
+							{
+								position:						relative;
+								display:						table;
+								z-index: 						1002;
+								min-height:						100%;
+								width:							100%;
+								margin:							auto;
+								text-align:						center;
+							}
+			.cookie-tool-container-close
+							{
+								position:						absolute;
+								background-image:				url(../../images/frontend/mmm_fancybox_sprite.png);
+								background-repeat:				no-repeat;
+								background-position:			right top;
+								width:							100%;
+								height:							35px;
+								cursor:							pointer;
+								margin-top:						-25px;
+								margin-left:					15px;
+							}
+			.cookie-tool-content-large-overlay-centralizing
+							{
+								display:						table-cell;
+								vertical-align:					middle;
+							}
+			.cookie-tool-container.large		
+							{
+								position:						relative;
+							}
+			.cookie-tool-container.large .div-to-table
+							{
+								display:						table;
+								border:							0;
+							}
+			.cookie-tool-container.large .div-to-table .div-to-cell
+							{
+								display:						table-cell;
+							}
+			.cookie-tool-container.large .options		
+							{
+								background: 					#f4f4f4;
+								padding: 						25px 25px;
+								margin: 						25px 0 0 0;
+								text-align:						center;
+							}
+			.cookie-tool-container.large .options input[type="radio"]
+							{
+								float:							none;
+							}
+			.cookie-tool-container.large .options .cookie-tool-recommended
+							{
+								position:						absolute;
+								padding:						5px 30px 5px 30px;
+								margin:							27px 0 0 27px;
+								background: 					#666666;
+								color: 							#fff;
+							}
+			.cookie-tool-container.large .options .image
+							{
+								height:							77px;
+								vertical-align:					bottom;
+								background-image:				url(../../images/frontend/cookie-tool.png);
+								background-repeat:				no-repeat;
+								background-position:			top center;
+								margin-bottom:					10px;
+							}
+			.cookie-tool-container.large .options .option1 .image
+							{
+								background-position:			center -154px;
+							}
+			.cookie-tool-container.large .options .option2 .image
+							{
+								background-position:			center -77px;
+							}
+			.cookie-tool-container.large .options .option3 .image
+							{
+								background-position:			center 0;
+							}
+			.cookie-tool-container.large .options-explained		
+							{
+								padding: 						25px 0 25px 0;
+							}
+			.cookie-tool-container.large .options-explained div.hide		
+							{
+								display: 						none;
+							}
+			.cookie-tool-container.large .options-do, 
+			.cookie-tool-container.large .options-dont		
+							{
+								width: 							50%;
+								text-align:						left;
+							}
